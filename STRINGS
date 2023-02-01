@@ -1,0 +1,15 @@
+print("Today is a good day to learn python")
+print('python is fun to learn')
+print("python's strings are easy")
+print('We can even include "quotes" in strings')
+print("Hello" + " World")
+
+name = input("please enter your name")
+greet = " Welcome"
+
+print (name + greet)
+
+age = 24
+
+print(type(greet))
+print(type(age))
