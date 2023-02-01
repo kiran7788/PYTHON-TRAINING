@@ -1,0 +1,17 @@
+splitstring = ("Today is a\ngood\nday")
+tabbedstring = ("Today is a\tgood\tday")
+print(splitstring)
+print(tabbedstring)
+print("Today is a good \'day,...\'to \'learn python")
+print("""Today is a good 'day,...'to learn" python""")
+
+print("""Today is a good '
+day,...'
+to learn" 
+python""")
+print()
+# to escape endl (\ is used at the end of the line)
+print("""Today is a good '\
+day,...'\
+to learn"\ 
+python""")
